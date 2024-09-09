@@ -13,4 +13,4 @@ Developed using python and jupyter notebook.
 5. Pick an error metric.
 6. Split your data.
 7. Train a model.
-8. Code
+8. Code.
